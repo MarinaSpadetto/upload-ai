@@ -1,0 +1,3 @@
+[submodule "upload-ia-web"]
+	path = upload-ia-web
+	url = https://github.com/MarinaSpadetto/upload-ia-web.git
